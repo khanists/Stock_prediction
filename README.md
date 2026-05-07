@@ -62,3 +62,5 @@ keyed by `MD5(ticker + horizon + method + date)`. This ensures:
 - Instant load on re-run same day
 - Automatic daily retraining
 - Force retrain via sidebar button
+
+link streamlit : https://stockpredictionapp-01.streamlit.app/
